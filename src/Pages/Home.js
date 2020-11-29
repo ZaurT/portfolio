@@ -7,12 +7,12 @@ export default function Home(){
         <div className="content">
             <div className="container">
                 <div className="row">
-                <div className="col-3">
-                    <AboutCard />
-                </div>
-                <div className="col-9">
-                    <Blog />
-                </div>
+                    <div className="col-3">
+                        <AboutCard />
+                    </div>
+                    <div className="col-9">
+                        <Blog />
+                    </div>
                 </div>
             </div>
         </div>
